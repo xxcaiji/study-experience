@@ -1,0 +1,1 @@
+__builtin_popcount(mask);统计mask二进制中有多少位为1
